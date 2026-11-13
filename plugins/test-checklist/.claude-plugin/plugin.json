@@ -1,0 +1,6 @@
+{
+  "name": "test-checklist",
+  "description": "A fixed smoke-test checklist for testing a second plugin.",
+  "version": "1.0.0",
+  "skills": "./skills/"
+}

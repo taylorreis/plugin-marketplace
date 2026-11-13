@@ -1,0 +1,6 @@
+{
+  "name": "test-hello",
+  "description": "A minimal greeting skill for testing plugin loading.",
+  "version": "1.0.0",
+  "skills": "./skills/"
+}

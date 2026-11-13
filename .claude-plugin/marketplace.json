@@ -1,0 +1,24 @@
+{
+  "name": "test-marketplace",
+  "owner": {
+    "name": "taylorreis"
+  },
+  "metadata": {
+    "description": "A minimal marketplace for testing plugin discovery and installation.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "test-hello",
+      "description": "A minimal greeting skill for testing plugin loading.",
+      "version": "1.0.0",
+      "source": "./plugins/test-hello"
+    },
+    {
+      "name": "test-checklist",
+      "description": "A fixed smoke-test checklist for testing a second plugin.",
+      "version": "1.0.0",
+      "source": "./plugins/test-checklist"
+    }
+  ]
+}
